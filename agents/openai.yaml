@@ -1,4 +1,4 @@
 interface:
   display_name: "生图提示词导演"
   short_description: "以资深美术指导的风格语言编译单画面 Prompt"
-  default_prompt: "使用 $image-prompt-director 先建立视觉命题和有主次的英文风格配方，把抽象审美要求翻译为专业可执行指令，确认后保存只包含当前画面的独立 JSON Prompt。"
+  default_prompt: "使用 $image-prompt-director 先建立视觉命题和有主次的英文风格配方，把抽象审美要求翻译为专业可执行指令；确认后保存独立 JSON Prompt，并在交付时列出本版参考图链接、顺序、优先级和作用。"
