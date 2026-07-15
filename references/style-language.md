@@ -2,6 +2,8 @@
 
 ## 使用方式
 
+风格未定时，先在 [style-library.md](style-library.md) 中按品类、情绪、媒介、配色或版式词查询，收敛到 1–3 个候选词族。这里负责把候选进一步翻译为模型可执行的专业语言；不要直接输出词库中的宽泛分类。
+
 把抽象审美要求翻译成模型可执行的英文术语和可见后果。使用结构：
 
 `[primary medium/style] × [composition or typography influence] × [material/optical influence]`
